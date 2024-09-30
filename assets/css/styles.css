@@ -441,3 +441,24 @@ button {
 .quality__button:hover i {
   transform: translateX(0.25rem);
 }
+/* ==========  LOGOS  ========== */
+.logo {
+  background-color: #fff;
+}
+.logo__container {
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  justify-items: center;
+  gap: 2.5rem 2rem;
+  border-top: 2px solid var(--text-color-light);
+  padding-top: 2.5rem;
+}
+.logo__img {
+  width: 80px;
+  mix-blend-mode: luminosity;
+  opacity: 0.4;
+  transition: all 0.4s;
+}
+.logo__img:hover {
+  opacity: 0.8;
+}
