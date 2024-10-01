@@ -627,3 +627,18 @@ button {
 ::-webkit-scrollbar-thumb:hover {
   background-color: #767b7f;
 }
+/* ============  BREAKPOINTS  ============ */
+/* FOR SMALL DEVICES */
+@media screen and (max-width: 320px) {
+  .container {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .quality__img-small {
+    transform: translateX(-3.5rem);
+  }
+  .quality__buttons {
+    flex-direction: column;
+    row-gap: 1rem;
+  }
+}
