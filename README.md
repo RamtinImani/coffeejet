@@ -7,5 +7,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - Product filtering feature using mixitup library
 
-
-![preview img](/preview.png)
+made by 🤍 for you
+![preview image](/preview.png)
