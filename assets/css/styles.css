@@ -875,3 +875,20 @@ button {
     max-width: 1400px;
   }
 }
+
+/* ==========  LOAD  ========== */
+.load {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fcfcfc;
+  display: grid;
+  place-items: center;
+  z-index: 1000;
+}
+/* THE SIZE MAY VARY DEPENDING ON THE IMAGE OF THE GIF */
+.load__gif {
+  width: 210px;
+}
