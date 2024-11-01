@@ -7,6 +7,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - Product filtering feature using mixitup library
 
-### 🪄 `Made By 🤍`
+### 🪄 `Made With 🤍`
 ---
 ![preview image](/preview.png)
